@@ -707,6 +707,8 @@ a {
 .cid-tph34eH54f {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-tph34eH54f nav.navbar {
   position: fixed;
@@ -799,7 +801,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.3);
+  background: #ffffff;
 }
 .cid-tph34eH54f .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -1345,6 +1347,8 @@ a {
 .cid-tph34eH54f {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-tph34eH54f nav.navbar {
   position: fixed;
@@ -1437,7 +1441,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.3);
+  background: #ffffff;
 }
 .cid-tph34eH54f .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
