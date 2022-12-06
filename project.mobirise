@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "inicio.html",
+    "currentPage": "miembros.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
