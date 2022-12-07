@@ -2024,9 +2024,6 @@ a {
 .cid-tphdmWJzxX img,
 .cid-tphdmWJzxX .item-img {
   width: 100%;
-  height: 100%;
-  height: 500px;
-  object-fit: cover;
 }
 .cid-tphdmWJzxX .item:focus,
 .cid-tphdmWJzxX span:focus {
