@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Hito4.html",
+    "currentPage": "Hitos.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1955,7 +1955,8 @@
               "text-align": "center"
             },
             ".item-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".item-subtitle": {
               "text-align": "left"
