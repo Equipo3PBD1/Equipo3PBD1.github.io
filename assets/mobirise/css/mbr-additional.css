@@ -1202,7 +1202,7 @@ a {
   }
 }
 .cid-s48udlf8KU {
-  padding-top: 0rem;
+  padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -1213,8 +1213,8 @@ a {
   text-align: left;
 }
 .cid-s48upRUlSD {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
@@ -1228,15 +1228,15 @@ a {
 .cid-s48upRUlSD img {
   width: 100%;
 }
-.cid-tpgV3hCXc4 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+.cid-tpsrL7YyAB {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-tpgV3hCXc4 .mbr-fallback-image.disabled {
+.cid-tpsrL7YyAB .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tpgV3hCXc4 .mbr-fallback-image {
+.cid-tpsrL7YyAB .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1246,17 +1246,71 @@ a {
   top: 0;
 }
 @media (max-width: 991px) {
-  .cid-tpgV3hCXc4 .image-wrapper {
+  .cid-tpsrL7YyAB .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-tpgV3hCXc4 img {
+.cid-tpsrL7YyAB .row {
+  flex-direction: row-reverse;
+}
+.cid-tpsrL7YyAB img {
   width: 100%;
 }
-@media (min-width: 992px) {
-  .cid-tpgV3hCXc4 .text-wrapper {
-    padding: 2rem;
+.cid-tpsrSQa9KS {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tpsrSQa9KS .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpsrSQa9KS .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tpsrSQa9KS .image-wrapper {
+    margin-bottom: 1rem;
   }
+}
+.cid-tpsrSQa9KS .row {
+  flex-direction: row-reverse;
+}
+.cid-tpsrSQa9KS img {
+  width: 100%;
+}
+.cid-tpss2yAkzU {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tpss2yAkzU .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpss2yAkzU .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tpss2yAkzU .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tpss2yAkzU .row {
+  flex-direction: row-reverse;
+}
+.cid-tpss2yAkzU img {
+  width: 100%;
 }
 .cid-tph34eH54f {
   z-index: 1000;
